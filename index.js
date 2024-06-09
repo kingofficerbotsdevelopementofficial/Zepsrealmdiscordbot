@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["dsc.gg/zepslair","Saying hi when you join!","Saying bye when you leave!"];
+const statusMessages = ["Watching for new users"];
 
 
 let currentIndex = 0;
